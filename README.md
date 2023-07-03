@@ -5,7 +5,6 @@
 ### About me
 
 I am a graduate of St. Petersburg Saint Petersburg State University of Aerospace Instrumentation (SUAI) with a degree in Information Systems and Programming. My qualification is a **programmer**.
-
 In addition to that, I am an experienced freelance **UX/UI designer** with over **6 years of experience**.
 
 ### Languages and tools
@@ -30,3 +29,9 @@ In addition to that, I am an experienced freelance **UX/UI designer** with over 
 
 
 ### Social
+
+- ![Telegram](https://img.shields.io/badge/Telegram-%40sxdxvsxdxv-blue?logo=telegram&logoColor=white&style=flat-square)(https://t.me/sxdxvsxdxv)
+- ![Gmail](https://img.shields.io/badge/Gmail-shevtsov.dima.03%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square)(mailto:shevtsov.dima.03@gmail.com)
+- ![Вконтакте](https://img.shields.io/badge/Вконтакте-dmitrysoda-blue?logo=vk&logoColor=white&style=flat-square)(https://vk.com/dmitrysoda)
+- ![hh.ru](https://img.shields.io/badge/hh.ru-Resume-orange?logo=hh.ru&logoColor=white&style=flat-square)(https://spb.hh.ru/resume/bf7cba5fff0c16f5d50039ed1f59646d6a6556)
+- ![Behance](https://img.shields.io/badge/Behance-sodaprestige-blue?logo=behance&logoColor=white&style=flat-square
