@@ -9,7 +9,7 @@ During my studies, I studied the following programming languages: Python, Java (
 Designed relational databases in SQL (MYSQL DBMS) and was engaged in their administration. Well acquainted with transactions, triggers, stored procedures, views, cursors. Also had experience of interacting with NoSQL databases.
 
 Languages and tools
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=.net)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
