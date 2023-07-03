@@ -4,9 +4,9 @@
 
 ### About me
 
-I am a graduate of St. Petersburg Saint Petersburg State University of Aerospace Instrumentation (SUAI) with a degree in Information Systems and Programming. My qualification is a programmer.
+I am a graduate of St. Petersburg Saint Petersburg State University of Aerospace Instrumentation (SUAI) with a degree in Information Systems and Programming. My qualification is a **programmer**.
 
-In addition to that, I am an experienced freelance UX/UI designer with over 6 years of experience.
+In addition to that, I am an experienced freelance **UX/UI designer** with over **6 years of experience**.
 
 ### Languages and tools
 
