@@ -1,6 +1,6 @@
 [![Header](https://github.com/SXDXV/SXDXV/blob/main/Res/sxdxv%20header%2009%2004.jpg?raw=true)](https://t.me/sxdxvsxdxv)
 
-## About me
+### About me
 
 I am a graduate of St. Petersburg State University of Aerospace Instrumentation with a degree in Information Systems and Programming. My qualification is a programmer.
 
@@ -8,7 +8,8 @@ During my studies, I studied the following programming languages: Python, Java (
 
 Designed relational databases in SQL (MYSQL DBMS) and was engaged in their administration. Well acquainted with transactions, triggers, stored procedures, views, cursors. Also had experience of interacting with NoSQL databases.
 
-Languages and tools
+
+### Languages and tools
 
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp)
@@ -29,4 +30,4 @@ Languages and tools
 
 
 
-Social
+###Social
