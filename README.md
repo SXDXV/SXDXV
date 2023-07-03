@@ -30,8 +30,8 @@ In addition to that, I am an experienced freelance **UX/UI designer** with over 
 
 ### Social
 
-[![Telegram](https://img.shields.io/badge/-blue?logo=telegram&logoColor=white&style=flat-square)](https://t.me/sxdxvsxdxv)
-[![Gmail](https://img.shields.io/badge/-red?logo=gmail&logoColor=white&style=flat-square)](mailto:shevtsov.dima.03@gmail.com)
-[![Вконтакте](https://img.shields.io/badge/-blue?logo=vk&logoColor=white&style=flat-square)](https://vk.com/dmitrysoda)
-[![hh.ru](https://img.shields.io/badge/-hh.ru-orange?logo=hh.ru&logoColor=white&style=flat-square)](https://spb.hh.ru/resume/bf7cba5fff0c16f5d50039ed1f59646d6a6556)
-[![Behance](https://img.shields.io/badge/-blue?logo=behance&logoColor=white&style=flat-square)](https://www.behance.net/sodaprestige)
+[![Telegram](https://img.shields.io/badge/-blue?logo=telegram&logo-black?style=for-the-badge)](https://t.me/sxdxvsxdxv)
+[![Gmail](https://img.shields.io/badge/-red?logo=gmail&logo-black?style=for-the-badge)](mailto:shevtsov.dima.03@gmail.com)
+[![Вконтакте](https://img.shields.io/badge/-blue?logo=vk&logo-black?style=for-the-badge)](https://vk.com/dmitrysoda)
+[![hh.ru](https://img.shields.io/badge/-hh.ru-orange?logo=hh.ru&logo-black?style=for-the-badge)](https://spb.hh.ru/resume/bf7cba5fff0c16f5d50039ed1f59646d6a6556)
+[![Behance](https://img.shields.io/badge/-blue?logo=behance&logo-black?style=for-the-badge)](https://www.behance.net/sodaprestige)
