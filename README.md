@@ -1,4 +1,4 @@
-[![Header](https://github.com/SXDXV/SXDXV/blob/main/Res/sxdxv%20header%2009%2004.jpg?raw=true)](https://t.me/sxdxvsxdxv)
+[![Header](https://github.com/SXDXV/SXDXV/blob/main/Res/sxdxv%20header%2009%2004.jpg?raw=true)](https://t.me/sxdxvsxdxv](https://github.com/SXDXV/SXDXV/blob/main/Res/git%20header.jpg))
 
 # Shevtsov Dmitry // SXDXV creator
 
